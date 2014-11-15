@@ -8,13 +8,13 @@ Numeric vector
 --
 Existem várias formas de definir um vetor númerico. Abra o console com `R` e vamos testar algumas delas.
 
-  > 1.9
-  [1] 1.9
+    > 1.9
+    [1] 1.9
 
 O valor entre colchetes é para indicar o tamanho.
 
-  > x <- 30 + 15
-  > x
-  [1] 45
+    > x <- 30 + 15
+    > x
+    [1] 45
 
 Para atribuir o valor a uma variável use o símbolo `<-`.

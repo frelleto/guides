@@ -17,8 +17,11 @@ Para falar sobre [R][r_language] estou me baseando no livro que está em progres
 
 R é uma poderosa linguagem de programação e um ambiente para statistical computing, dataset exploration, analysis e visualization.
 
+Leia mais sobre R [aqui][r_quick_start].
+
 [rosetta_task]: http://rosettacode.org/wiki/Category:Programming_Tasks
 [rosetta_zampi]: https://github.com/vagnerzampieri/rosettacode
 [r_language]: http://www.r-project.org/
 [book_kun_ren]: http://renkun.me/learnR/index.html
 [cyclismo_tutorial]: http://www.cyclismo.org/tutorial/R/index.html
+[r_quick_start]: https://github.com/frelleto/guides/blob/master/languages/R/1_quick_start.md

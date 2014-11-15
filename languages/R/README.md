@@ -18,6 +18,10 @@ Quando quiser sair da máquina é só dar `exit` e depois commitar, exemplo:
     sudo docker ps -a
     sudo docker commit CONTAINNER_ID rocker/r-devel
 
+Console
+--
+Para usar o console é só chamar o comando `R`.
+
 Testes com testthat
 --
 No Dockerfile tem o [testthat][testthat], não tem a melhor das documentações, mas vou tentar detalhar sempre que possível.

@@ -20,7 +20,7 @@ Quando quiser sair da máquina é só dar `exit` e depois commitar, exemplo:
 
 Console
 --
-Para usar o console é só chamar o comando `R`.
+Para usar o console é só chamar o comando `R`. Para sair é com `q()`, você pode escolher ainda salvar o histórico que foi digitado.
 
 Testes com testthat
 --

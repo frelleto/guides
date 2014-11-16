@@ -81,4 +81,9 @@ Para rodar só a função:
 
     elixir factorial.exs
 
+Ordem de leitura dos arquivos:
+--
+
+ - Basics
+
 [docker_elixir]: https://raw.githubusercontent.com/vagnerzampieri/docker-files/master/elixir/Dockerfile

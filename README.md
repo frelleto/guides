@@ -13,7 +13,7 @@ Meus códigos ficam [aqui][rosetta_zampi].
 Linguagens
 --
 ####Elixir
-Minha abordagem para falar sobre [Elixir][elixir] vai ser baseando no que leio em posts, tutoriais e no [livro][book_pragprog_elixir] do [Dave Thomas][site_dave_thomas], não é uma tradução do que ele escreve no livro é a minha interpretação do livro.
+Minha abordagem para falar sobre [Elixir][elixir] será baseado no que leio em posts, tutoriais e no [livro][book_pragprog_elixir] do [Dave Thomas][site_dave_thomas], não é uma tradução do que ele escreve no livro é a minha interpretação do livro.
 
 Elixir é uma linguagem funcional e dinâmica, projetada para a construção de aplicativos escaláveis e sustentáveis.
 

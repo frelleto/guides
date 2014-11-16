@@ -17,7 +17,7 @@ Minha abordagem para falar sobre [Elixir][elixir] será baseado no que leio em p
 
 Elixir é uma linguagem funcional e dinâmica, projetada para a construção de aplicativos escaláveis e sustentáveis.
 
-Elixir aproveita o Erlang VM, conhecido para a execução de baixa latência, distribuído e sistemas tolerantes a falhas, ao mesmo tempo, sendo usado com sucesso no desenvolvimento web e domínio de software embarcado.
+Elixir aproveita a VM do Erlang, para a execução de baixa latência, distribuída e sistemas tolerantes a falhas, ao mesmo tempo, sendo usado com sucesso no desenvolvimento web e domínio de software embarcado.
 
 Leia mais sobre Elixir [aqui][elixir_instalation].
 

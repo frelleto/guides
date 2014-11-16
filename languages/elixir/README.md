@@ -32,4 +32,53 @@ Testes
 --
 Para a execução dos testes vou usar o próprio `ExUnit` que é nativo do Elixir.
 
+Primeiro script
+--
+Para primeiro exercício farei um [fatorial][rosetta_factorial], ele vai servir para testar as suas configurações.
+
+Crie um arquivo chamado `factorial.exs`:
+
+    defmodule Factorial do
+      def calc(0), do: 1
+      def calc(n), do: n * calc(n - 1)
+    end
+
+    # IO.puts Factorial.calc(5)
+
+Vou detalhar mais no futuro, mas o `defmodule` é para criar um modulo em Elixir, esses métodos `calc` são assinados com `def`, nesse caso é possível fazer tudo em uma linha, mas se quiserem fazer com `if` e `else` não tem problema.
+
+Para printar é só usar o `IO.puts`.
+
+Crie uma pasta `tests` com o arquivo `tests/factorial_test.exs`:
+
+    Code.require_file "../factorial.exs", __DIR__
+
+    ExUnit.start
+
+    defmodule Tests do
+      use ExUnit.Case
+
+      test "factorial 2 should be 2" do
+        assert Factorial.calc(2) == 2
+      end
+
+      test "factorial 5 should be 120" do
+        assert Factorial.calc(5) == 120
+      end
+
+      test "factorial 15 should be 1307674368000" do
+        assert Factorial.calc(15) == 1307674368000
+      end
+    end
+
+O `Code.require_file "../factorial.exs", __DIR__` ele carrega o arquivo `factorial.exs`,  o `ExUnit.start`  da start na ExUnit,  o módulo `ExUnit.Case` carrega outros módulos para ser feitos os testes.
+
+Para rodar os testes:
+
+    elixir tests/factorial_test.exs
+
+Para rodar só a função:
+
+    elixir factorial.exs
+
 [docker_elixir]: https://raw.githubusercontent.com/vagnerzampieri/docker-files/master/elixir/Dockerfile

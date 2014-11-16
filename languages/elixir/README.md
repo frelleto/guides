@@ -22,11 +22,11 @@ Console
 
 Para entrar no console do Elixir é só digitar `iex`,  para sair aperte `Ctrl+c` duas vezes.
 
-  # iex
-  Erlang/OTP 17 [erts-6.2] [source] [64-bit] [smp:4:4] [async-threads:10] [kernel-poll:false]
+    # iex
+    Erlang/OTP 17 [erts-6.2] [source] [64-bit] [smp:4:4] [async-threads:10] [kernel-poll:false]
 
-  Interactive Elixir (1.1.0-dev) - press Ctrl+C to exit (type h() ENTER for help)
-  iex(1)>
+    Interactive Elixir (1.1.0-dev) - press Ctrl+C to exit (type h() ENTER for help)
+    iex(1)>
 
 
 [docker_elixir]: https://raw.githubusercontent.com/vagnerzampieri/docker-files/master/elixir/Dockerfile

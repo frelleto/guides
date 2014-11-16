@@ -1,6 +1,6 @@
 Guias do Frelleto
 ==
-São guias de várias áreas baseando-se no conhecimento de quem escreve, de traduções parciais/completas de posts e livros.
+São guias de várias áreas baseando-se no conhecimento de quem escreve, de traduções parciais de posts e livros.
 
 Resolvendo desafios
 --
@@ -12,6 +12,15 @@ Meus códigos ficam [aqui][rosetta_zampi].
 
 Linguagens
 --
+####Elixir
+Minha abordagem para falar sobre [Elixir][elixir] vai ser baseando no que leio em posts, tutoriais e no [livro][book_pragprog_elixir] do [Dave Thomas][site_dave_thomas], não é uma tradução do que ele escreve no livro é a minha interpretação do livro.
+
+Elixir é uma linguagem funcional e dinâmica, projetada para a construção de aplicativos escaláveis e sustentáveis.
+
+Elixir aproveita o Erlang VM, conhecido para a execução de baixa latência, distribuído e sistemas tolerantes a falhas, ao mesmo tempo, sendo usado com sucesso no desenvolvimento web e domínio de software embarcado.
+
+Leia mais sobre Elixir [aqui][elixir_instalation].
+
 ####R
 Para falar sobre [R][r_language] estou me baseando no livro que está em progresso do [Kun Ren][book_kun_ren], do tutorial do site [cyclismo][cyclismo_tutorial] e de experiências minhas aprendendo.
 
@@ -21,7 +30,12 @@ Leia mais sobre R [aqui][r_instalation].
 
 [rosetta_task]: http://rosettacode.org/wiki/Category:Programming_Tasks
 [rosetta_zampi]: https://github.com/vagnerzampieri/rosettacode
+[elixir]: http://elixir-lang.org/
+[book_pragprog_elixir]: https://pragprog.com/book/elixir/programming-elixir
+[site_dave_thomas]: http://pragdave.me/
+[elixir_instalation]: https://github.com/frelleto/guides/blob/master/languages/elixir/README.md
 [r_language]: http://www.r-project.org/
 [book_kun_ren]: http://renkun.me/learnR/index.html
 [cyclismo_tutorial]: http://www.cyclismo.org/tutorial/R/index.html
-[r_instalation]: https://github.com/frelleto/guides/blob/master/languages/R/1_instalation.md
+[r_instalation]: https://github.com/frelleto/guides/blob/master/languages/R/README.md
+

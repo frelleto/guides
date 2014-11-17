@@ -15,10 +15,7 @@ Dados
 
 Neste tópico vou falar sobre bancos, arquitetura de banco, buscas, análises, links e posts interessantes a respeito.
 
-[sentiment_analysis_link_1]: http://homepages.dcc.ufmg.br/~fabricio/download/webmedia13.pdf
-[sentiment_analysis_link_2]: http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf
-[sentiment_analysis_link_3]: http://incc-tps.googlecode.com/svn/trunk/TPFinal/bibliografia/Pak%20and%20Paroubek%20(2010).%20Twitter%20as%20a%20Corpus%20for%20Sentiment%20Analysis%20and%20Opinion%20Mining.pdf
-[sentiment_analysis_link_4]: http://www.javacodegeeks.com/2012/03/twitter4j-and-esper-tracking-user.html
+Leia mais sobre esse tema [aqui][]
 
 Linguagens
 --
@@ -40,6 +37,7 @@ Leia mais sobre R [aqui][r_instalation].
 
 [rosetta_task]: http://rosettacode.org/wiki/Category:Programming_Tasks
 [rosetta_zampi]: https://github.com/vagnerzampieri/rosettacode
+[data]: https://github.com/frelleto/guides/tree/master/dados
 [elixir]: http://elixir-lang.org/
 [book_pragprog_elixir]: https://pragprog.com/book/elixir/programming-elixir
 [site_dave_thomas]: http://pragdave.me/
@@ -48,4 +46,3 @@ Leia mais sobre R [aqui][r_instalation].
 [book_kun_ren]: http://renkun.me/learnR/index.html
 [cyclismo_tutorial]: http://www.cyclismo.org/tutorial/R/index.html
 [r_instalation]: https://github.com/frelleto/guides/blob/master/languages/R/README.md
-

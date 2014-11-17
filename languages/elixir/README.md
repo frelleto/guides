@@ -1,6 +1,11 @@
 Elixir
 ==
 
+Ordem de leitura dos arquivos:
+--
+ - Este arquivo
+ - basics.md
+
 Instalação
 --
 Utilizo o Docker para a instalação, tudo o que precisa para começar é baixar o [Dockerfile][docker_elixir].
@@ -80,10 +85,5 @@ Para rodar os testes:
 Para rodar só a função:
 
     elixir factorial.exs
-
-Ordem de leitura dos arquivos:
---
-
- - Basics
 
 [docker_elixir]: https://raw.githubusercontent.com/vagnerzampieri/docker-files/master/elixir/Dockerfile

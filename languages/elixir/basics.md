@@ -56,3 +56,34 @@ Ignorando um valor com _(underscore)
     1
 
 Se você quiser ignorar outros valores que vem em um array é só usar o `_`.
+
+
+Lists operations
+--
+
+    iex(5)> [1, 2, 3] ++ [4, 5]
+    [1, 2, 3, 4, 5]
+
+    iex(6)> 3 in [1, 2, 3] ++ [4, 5]
+    true
+
+    iex(7)> 7 in [1, 2, 3] ++ [4, 5]
+    false
+
+    iex(8)> [10, 7, 13, 4] -- [5, 4, 10]
+    '\a\r'
+
+    iex(9)> [10, 7, 13, 4] -- [5, 4, 10]
+    '\a\r'
+
+    iex(10)> [10, 7, 13, 4] -- [7, 4]
+    '\n\r'
+
+    iex(11)> [4, 7, 10, 13] -- [4, 7]
+    '\n\r'
+
+    iex(12)> [1, 2, 3] -- [1, 3]
+    [2]
+
+    iex(13)> [1, 2, 3] -- [1, 2]
+    [3]

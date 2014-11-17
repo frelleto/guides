@@ -45,3 +45,14 @@ More Complex Matches
 O mais interessante ao falar sobre listas é evidênciar o que já foi dito sobre match e como atribuir para uma variável valores que vieram de um array.
 
 No Elixir deve se montar um array para receber os valores `[a, 2, b, d] = list`, porém, o número `2` não vai receber a variável, mas vai comparar com o que estiver na lista, se tivesse o valor `3` por exemplo, iria dar erro `** (MatchError) no match of right hand side value: [1, 2, 3, [4, 5]]`.
+
+Ignorando um valor com _(underscore)
+--
+
+    iex()> [a, _, _] = [1, 2, 3]
+    [1, 2, 3]
+
+    iex()> a
+    1
+
+Se você quiser ignorar outros valores que vem em um array é só usar o `_`.

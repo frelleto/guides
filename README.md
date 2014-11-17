@@ -2,21 +2,6 @@ Guias do Frelleto
 ==
 São guias de várias áreas baseando-se no conhecimento de quem escreve, de traduções parciais de posts e livros.
 
-Análise de sentimento
---
-
-Tem alguns links que estou lendo sobre o assunto:
-
- - [Métodos para Análise de sentimentos no Twitter][analysis_sentiment_link_1]
- - [Probabilistic Topic Models][analysis_sentiment_link_2]
- - [Twitter as a Corpus for Sentiment Analysis and Opinion Mining][analysis_sentiment_link_3]
- - [Twitter4j and Esper: Tracking user sentiments on Twitter][analysis_sentiment_link_4]
-
-[analysis_sentiment_link_1]: http://homepages.dcc.ufmg.br/~fabricio/download/webmedia13.pdf
-[analysis_sentiment_link_2]: http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf
-[analysis_sentiment_link_3]: http://incc-tps.googlecode.com/svn/trunk/TPFinal/bibliografia/Pak%20and%20Paroubek%20(2010).%20Twitter%20as%20a%20Corpus%20for%20Sentiment%20Analysis%20and%20Opinion%20Mining.pdf
-[analysis_sentiment_link_4]: http://www.javacodegeeks.com/2012/03/twitter4j-and-esper-tracking-user.html
-
 Resolvendo desafios
 --
 Uma boa prática de estudos é resolver desafios, existem diversos sites que falam sobre, mas gosto muito do [rosettacode.org][rosetta_task], de lá pego a maioria dos exercícios para resolver, tento não ficar muitos dias sem fazer nenhum e nunca deixo de fazer testes.
@@ -24,6 +9,16 @@ Uma boa prática de estudos é resolver desafios, existem diversos sites que fal
 Se estiver aprendendo uma linguagem, comece desde o primeiro momento fazendo testes, sempre que pego uma linguagem nova a primeira coisa que procuro é como fazer teste com ela e depois leio mais a respeito.
 
 Meus códigos ficam [aqui][rosetta_zampi].
+
+Dados
+--
+
+Neste tópico vou falar sobre bancos, arquitetura de banco, buscas, análises, links e posts interessantes a respeito.
+
+[sentiment_analysis_link_1]: http://homepages.dcc.ufmg.br/~fabricio/download/webmedia13.pdf
+[sentiment_analysis_link_2]: http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf
+[sentiment_analysis_link_3]: http://incc-tps.googlecode.com/svn/trunk/TPFinal/bibliografia/Pak%20and%20Paroubek%20(2010).%20Twitter%20as%20a%20Corpus%20for%20Sentiment%20Analysis%20and%20Opinion%20Mining.pdf
+[sentiment_analysis_link_4]: http://www.javacodegeeks.com/2012/03/twitter4j-and-esper-tracking-user.html
 
 Linguagens
 --

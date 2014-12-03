@@ -28,6 +28,10 @@ Elixir aproveita a VM do Erlang, para a execução de baixa latência, distribu�
 
 Leia mais sobre Elixir [aqui][elixir_instalation].
 
+####Go
+
+Para falar de Go vou me basear no [tour do golang][tour-golang], [gobyexample][gobyexample], posts e experiência p�pria.
+
 ####R
 Para falar sobre [R][r_language] estou me baseando no livro que está em progresso do [Kun Ren][book_kun_ren], do tutorial do site [cyclismo][cyclismo_tutorial] e de experiências minhas aprendendo.
 
@@ -40,6 +44,8 @@ Leia mais sobre R [aqui][r_instalation].
 [data]: https://github.com/frelleto/guides/tree/master/dados
 [elixir]: http://elixir-lang.org/
 [book_pragprog_elixir]: https://pragprog.com/book/elixir/programming-elixir
+[tour-golang]: http://tour.golang.org/
+[gobyexample]: https://gobyexample.com/
 [site_dave_thomas]: http://pragdave.me/
 [elixir_instalation]: https://github.com/frelleto/guides/blob/master/languages/elixir/README.md
 [r_language]: http://www.r-project.org/

@@ -15,7 +15,7 @@ Dados
 
 Neste tópico vou falar sobre bancos, arquitetura de banco, buscas, análises, links e posts interessantes a respeito.
 
-Leia mais sobre esse tema [aqui][]
+Leia mais sobre esse tema [aqui][data]
 
 Linguagens
 --
@@ -30,7 +30,7 @@ Leia mais sobre Elixir [aqui][elixir_instalation].
 
 ####Go
 
-Para falar de Go vou me basear no [tour do golang][tour-golang], [gobyexample][gobyexample], posts e experiência p�pria.
+Para falar de Go vou me basear no [tour do golang][tour-golang], [gobyexample][gobyexample], posts e experiência própria.
 
 ####R
 Para falar sobre [R][r_language] estou me baseando no livro que está em progresso do [Kun Ren][book_kun_ren], do tutorial do site [cyclismo][cyclismo_tutorial] e de experiências minhas aprendendo.
